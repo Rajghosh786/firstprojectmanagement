@@ -1,1 +1,3 @@
 # firstprojectmanagement
+
+Description of Project board - We created a project board in which we created three columns To Do, In Progress, Done this will help to track the progress of the task which was given to us like if we started something and not yet ended we can move that task to pending column, and if a task has completed we can move it to completed column now this will help us to day to day working like we dont have to look back to the task which has been already been completed this board will help and ensure the project task and functionaing is in smooth manner and are completed before the time line
